@@ -99,6 +99,25 @@ Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externa
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Executive Dashboard
+![Executive Dashboard](images/overview.png)
+
+### 🔹 Finance Dashboard
+![Finance Dashboard](images/sales_analysis.png)
+
+### 🔹 Sales Dashboard
+![Sales Dashboard](images/profit_dashboard.png)
+
+### 🔹 Marketing Dashboard
+![Marketing Dashboard](images/data_model.png)
+
+### 🔹 Supply Chain Dashboard
+![Supply Chain Dashboard](images/data_model.png)
+
+---
+
 ## 👨‍💻 Author
 
 Rakesh Mohan Sahu  
